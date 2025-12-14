@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ガラガラ GO！！",
+  "base_artist": "Bigbang",
+  "createdAt": "2025-12-14T13:45:00.719344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガラガラ GO!!(from ELECTRIC LOVE TOUR 2010)",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/01_ガラガラ_GO!!(from_ELECTRIC_LOVE_TOUR_2010)_BIGBANG.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガラガラ GO!!",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/02_ガラガラ_GO!!_BIGBANG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガラガラ GO!! (BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN)",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/03_ガラガラ_GO!!_(BIGBANG10_THE_CONCERT___0.TO.10_IN_JAPAN)_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガラガラ GO!!",
+      "artist": "Big Bang",
+      "has_synced": false,
+      "path": "select/04_ガラガラ_GO!!_Big_Bang.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガラガラ GO!!",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/05_ガラガラ_GO!!_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ガラガラ GO!!",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/06_ガラガラ_GO!!_BIGBANG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラガラ GO!!",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_ガラガラ_GO!!_BIGBANG.txt"
+    }
+  ]
+}
